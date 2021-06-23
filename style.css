@@ -5,26 +5,48 @@
     font-size: 60px;
     line-height: 95px;
 
-    position: absolute;
+    /* position: absolute;
     width: 457px;
     height: 190px;
     left: 151px;
-    top: 130px;
+    top: 130px; */
 }
 
 #profile1{
-    /* width: 272px; */
-    /* position: relative; */
-    /* left: 50; */
-    /* padding-top: 10px; */
+    max-width: 50%;
+    position: relative;
+    left: 50;
+    padding-top: 10px;
+    float: right;
 }
 
 #pinksq{
-    position: relative;
+    position: absolute;
     left:155px;
-    top: -130px;
+    top: 400px;
 }
 
 body {
     background-color: #FAF4E9;
 }
+
+.heading{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.bodies{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.vls {
+    border-left: 3px white;
+    height: 80px;
+    position: absolute;
+    left: 80%;
+    margin-left: -3px;
+    top: 0;
+  }
