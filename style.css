@@ -1,0 +1,30 @@
+#bigname {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 95px;
+
+    position: absolute;
+    width: 457px;
+    height: 190px;
+    left: 151px;
+    top: 130px;
+}
+
+#profile1{
+    /* width: 272px; */
+    /* position: relative; */
+    /* left: 50; */
+    /* padding-top: 10px; */
+}
+
+#pinksq{
+    position: relative;
+    left:155px;
+    top: -130px;
+}
+
+body {
+    background-color: #FAF4E9;
+}
